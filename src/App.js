@@ -22,7 +22,7 @@ function App() {
               className=' flex flex-col items-center border 
              rounded-[8px] bg-gray-200 h-14 justify-center'
             >
-              <h2 className='text-xl'>Zui Team</h2>
+              <h2 className='text-xl'>Zuri Team</h2>
             </a>
           </li>
           <li className='w-full mb-4'>
